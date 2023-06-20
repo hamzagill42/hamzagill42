@@ -7,6 +7,7 @@ Tech Stacks: 
 PHP | Laravel | Python
 
 Domains of the project previously worked on:
+
 Fintech | Accounting | CRM | management | E-commerce | Time Schedule | ERP System | NFT MarketPlace | HR portal
 
 Areas of expertise: 
