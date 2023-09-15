@@ -2,7 +2,7 @@ Skilled software engineer with expertise in building scalable and secure softwar
 
 Overall Professional Experience: 
 
-4.3 years of experience in the IT industry
+4.7 years of experience in the IT industry
 
 Tech Stacks: 
 PHP | Laravel | Python
