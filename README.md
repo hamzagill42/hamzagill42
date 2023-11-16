@@ -1,4 +1,4 @@
-Skilled software engineer with expertise in building scalable and secure software solutions. 4.3 years of experience in PHP, Laravel, and Python. I possess a deep understanding of software engineering principles. Through effective problem-solving and collaboration, I have consistently delivered high-quality code that meets project requirements. Committed to continuous improvement, I stay updated on the latest technologies and best practices to drive innovation in software development.
+Skilled software engineer with expertise in building scalable and secure software solutions. 4.8 years of experience in PHP, Laravel, and Python. I possess a deep understanding of software engineering principles. Through effective problem-solving and collaboration, I have consistently delivered high-quality code that meets project requirements. Committed to continuous improvement, I stay updated on the latest technologies and best practices to drive innovation in software development.
 
 Overall Professional Experience: 
 
